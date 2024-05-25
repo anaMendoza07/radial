@@ -2,13 +2,12 @@
 # Proyecto de Lugares
 
 ## Descripción
-Este proyecto es una aplicación web para la gestión de lugares turísticos y de interés, que incluye la implementación de mapas interactivos, gestión de usuarios y roles administrativos. Los usuarios pueden explorar lugares, crear sus propios marcadores y reseñas, mientras que los administradores pueden gestionar el contenido y los usuarios de la plataforma.
+Este proyecto es una aplicación web para la gestión de lugares turísticos y de interés, que incluye la implementación de mapas interactivos, gestión de usuarios y un administrador. Los usuarios pueden explorar lugares, crear sus propios marcadores y reseñas, mientras que los administradores pueden gestionar el contenido y los usuarios de la plataforma. 
 
 ## Características
 
 ### Mapas
 - *Visualización Interactiva:* Integración con la API de Google Maps para mostrar mapas interactivos.
-- *Marcadores:* Añadir, editar y eliminar marcadores en el mapa para indicar lugares de interés.
 - *Detalles de Lugar:* Información detallada de los lugares al hacer clic en los marcadores.
 
 ### Gestión de Usuarios
